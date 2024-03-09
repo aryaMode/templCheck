@@ -1,0 +1,70 @@
+Task,Calories (per hour),Wake-up Time,Sleep Time,Working Hours,Avg Tasks per Day,End of Day Exhausted,Age
+Running a marathon,500-2500,6:00,21:00,8,1,1,30
+Heavy construction work,2100-2400,5:00,17:00,10,1,1,40
+Firefighting,2100-2400,6:00,16:00,8,1,1,35
+Rock climbing,2000-2300,7:00,16:00,6,1,1,25
+Swimming long distances,2000-2200,5:00,15:00,8,1,1,30
+Scuba diving,2000-2100,6:00,16:00,6,1,1,28
+Aerobics,1700-2000,6:00,20:00,4,2,1,25
+Cycling long distances,1600-1700,6:00,18:00,6,1,1,30
+Dancing,1500-1600,6:00,22:00,4,2,1,25
+Mountain biking,600-1700,6:00,10:00,8,7,1,40
+Hiking,600-1000,6:30,21:45,8,7,1,47
+Kickboxing,500-550,7:00,22:30,7,6,0,33
+Circuit training,400-500,6:15,23:15,9,8,1,40
+Jumping rope,2-500,6:15,23:30,7,7,0,45
+CrossFit,450-550,7:30,22:45,8,7,0,28
+High-intensity cardio,500-800,6:30,23:15,8,6,1,32
+Rowing,100-400,6:15,11:30,8,7,0,42
+Skateboarding,50-450,6:45,23:00,6,5,1,35
+Pilates,300-400,7:15,10:15,7,6,1,55
+Jogging ,250-350,7:00,23:30,8,7,1,37
+Gardening,11-350,7:15,22:15,7,6,0,42
+Yoga ,10-300,6:45,22:15,6,6,0,42
+Walking ,70-250,7:30,22:45,7,5,1,55
+Weightlifting,250-500,7:45,22:00,9,8,0,30
+Tennis,200-250,7:30,22:30,8,7,0,28
+Surfing,150-250,8:00,10:00,6,5,1,25
+Martial arts ,100-150,7:00,22:45,8,7,0,38
+Tai Chi,100-150,7:45,10:00,9,8,0,47
+Badminton,100-150,7:15,10:15,7,6,1,27
+Playing musical instrument,Apr-00,7:15,23:15,7,6,0,50
+Watching TV,85-95,6:45,22:45,8,7,1,55
+Playing basketball,80-100,6:00,10:30,7,6,1,60
+Playing video games,50-85,7:00,23:30,9,8,0,25
+Reading,50-80,6:30,22:15,8,7,1,30
+Playing football,80-180,7:00,11:00,8,7,0,25
+Writing,50-75,7:45,22:30,7,6,0,35
+Studying,70-80,7:00,23:00,8,7,1,40
+Volleyball,80-100,7:30,22:30,8,7,0,28
+Coding,60-65,6:45,22:45,8,7,0,45
+Drawing,55-60,7:30,22:30,9,8,1,50
+Playing chess,50-55,6:15,23:15,7,6,1,55
+Table tennis,50-100,7:15,22:45,8,7,0,32
+Using a computer,55-60,7:00,23:00,4,5,0,30
+Photography,20-50,7:00,22:45,8,7,0,25
+Bird watching,45-50,7:30,22:30,7,6,1,30
+Golf,30-80,6:00,23:30,9,8,1,45
+Cooking,40-50,6:15,11:45,7,6,0,30
+Sketching,30-40,6:45,22:15,8,7,0,35
+Origami,30-35,7:15,23:00,6,5,1,40
+Cleaning,Oct-30,8:00,10:00,8,7,1,55
+Calligraphy,25-30,6:00,22:45,8,7,0,45
+Bowling,35-40,6:30,22:15,8,7,0,38
+Knitting,25-30,6:30,23:30,7,6,1,50
+Embroidery,20-25,7:00,22:15,8,7,0,55
+Stretching,15-20,7:45,10:15,8,7,1,55
+Laundry,20-30,7:45,11:15,6,5,0,50
+Skiing,20-30,7:45,22:00,7,6,1,55
+Vacuuming,15-20,6:00,11:30,7,6,1,60
+Snowboarding,15-30,7:00,23:00,8,7,0,42
+Pottery,15-20,7:30,23:30,9,8,1,25
+Candle making,10-Dec,6:15,22:30,8,7,0,30
+Ice skating,10-Dec,6:45,22:45,6,5,1,30
+Dusting,Oct-20,7:00,10:45,8,7,1,35
+Grocery shopping,Oct-20,7:00,10:15,8,7,0,25
+Mopping,05-Oct,6:30,11:30,7,6,0,42
+Hula hooping,03-May,6:30,22:30,8,7,1,45
+Jumping jacks,02-Apr,7:30,22:00,7,6,1,45
+Trampoline jumping,02-Mar,7:15,22:15,6,5,0,40
+Juggling,01-Feb,7:00,23:30,7,6,1,35
